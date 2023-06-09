@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3002endpoint_unsaved/Untitled-1",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002endpoint_unsaved/Untitled-1"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3002c:/Users/Admin/Desktop/all/HTML5&CSS3/Untitled-1.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002c:/Users/Admin/Desktop/all/HTML5&CSS3/Untitled-1.html"
+        }
+    ]
+}
